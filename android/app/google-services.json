@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1054861279271",
+    "firebase_url": "https://uber-ola-and-indriver-cl-a30c6-default-rtdb.firebaseio.com",
+    "project_id": "uber-ola-and-indriver-cl-a30c6",
+    "storage_bucket": "uber-ola-and-indriver-cl-a30c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054861279271:android:538bde79b0b9cf08900e02",
+        "android_client_info": {
+          "package_name": "com.dolapo.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054861279271-v03sjo6j93vgfbfp5fre8h73j8gqlkbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyCH_PcQSYRM0uztyQCeb4bQJknlC1kp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054861279271-v03sjo6j93vgfbfp5fre8h73j8gqlkbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054861279271:android:6cd5dd1322a86cac900e02",
+        "android_client_info": {
+          "package_name": "com.dolapoaraoye.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054861279271-v03sjo6j93vgfbfp5fre8h73j8gqlkbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyCH_PcQSYRM0uztyQCeb4bQJknlC1kp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054861279271-v03sjo6j93vgfbfp5fre8h73j8gqlkbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
